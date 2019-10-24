@@ -1,3 +1,6 @@
+##  Function that uses a dictionary to loop through a 
+##  fantasy game inventory to count the total items.
+
 stuff = {'arrow':12,'gold coin':42,
              'rope':1,'torch':6,'dagger':1}
 
